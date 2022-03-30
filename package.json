@@ -3,6 +3,11 @@
     "displayName": "Pink Floss",
     "description": "Not too much pink, plus some dark blu.",
     "version": "0.0.1",
+    "publisher": "Zifoduk",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Zifoduk/pink-floss"
+    },
     "engines": {
         "vscode": "^1.65.0"
     },
