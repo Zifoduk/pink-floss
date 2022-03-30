@@ -1,0 +1,21 @@
+{
+    "name": "pink-floss",
+    "displayName": "Pink Floss",
+    "description": "Not too much pink, plus some dark blu.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Pink Floss",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Pink Floss-color-theme.json"
+            }
+        ]
+    }
+}
